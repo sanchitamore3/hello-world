@@ -1,2 +1,1 @@
-# hello-world
-Learning github, test repository.
+hii, this is sanchita .I am fond of reading books and spending time with people.
